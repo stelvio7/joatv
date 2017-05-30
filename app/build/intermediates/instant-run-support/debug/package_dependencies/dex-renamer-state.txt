@@ -1,0 +1,10 @@
+#Tue May 30 21:47:45 KST 2017
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.2=C\:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\RootTools-3.4_9c6ed00f7d4b715f311fb2eb0e6b236b74eb665d
+base.1=C\:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\otto-1.3.8_e9db0628aafd4857a0f5165f559642d620bd29bb
+base.0=C\:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\universal-image-loader-1.9.2_43d27d771c5acc9fbbe51f581fc04a242078c37d
+file.2=C\:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\RootTools-3.4_9c6ed00f7d4b715f311fb2eb0e6b236b74eb665d\\classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\otto-1.3.8_e9db0628aafd4857a0f5165f559642d620bd29bb\\classes.dex
+file.0=C\:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\universal-image-loader-1.9.2_43d27d771c5acc9fbbe51f581fc04a242078c37d\\classes.dex
