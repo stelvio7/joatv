@@ -65,6 +65,15 @@
         <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_43d27d771c5acc9fbbe51f581fc04a242078c37d\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.2_43d27d771c5acc9fbbe51f581fc04a242078c37d.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\libs\RootTools-3.4.jar"
         jumboMode="true"
@@ -153,6 +162,15 @@
         revision="25.0.0"
         sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
         <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\2\RootTools-3.4_9c6ed00f7d4b715f311fb2eb0e6b236b74eb665d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\libs\RootTools-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\pre-dexed\release\RootTools-3.4_9c6ed00f7d4b715f311fb2eb0e6b236b74eb665d.jar" />
     </item>
 
 </items>
