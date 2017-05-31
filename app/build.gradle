@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-       /* debug {
+        debug {
             keyAlias 'moatv5.keystore'
             keyPassword 'lsspipsm'
             storeFile file('moatv5.keystore')
             storePassword 'lsspipsm'
-        }*/
+        }
         release {
             keyAlias 'moatv5.keystore'
             keyPassword 'lsspipsm'

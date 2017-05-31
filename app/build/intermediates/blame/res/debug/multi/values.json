@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\oldData\\201703android\\joatv\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 88
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 1,
@@ -30,7 +30,7 @@
                     "endOffset": 124
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 1,
@@ -49,7 +49,7 @@
                     "endOffset": 192
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 1,
@@ -68,7 +68,7 @@
                     "endOffset": 234
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
@@ -106,7 +106,7 @@
                     "endOffset": 351
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
@@ -125,7 +125,7 @@
                     "endOffset": 413
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 1,
@@ -144,7 +144,7 @@
                     "endOffset": 473
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
@@ -163,7 +163,7 @@
                     "endOffset": 533
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
@@ -182,7 +182,7 @@
                     "endOffset": 597
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 1,
@@ -201,7 +201,7 @@
                     "endOffset": 662
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
@@ -220,7 +220,7 @@
                     "endOffset": 728
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
@@ -239,7 +239,7 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 1,
@@ -258,7 +258,7 @@
                     "endOffset": 852
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 1,
@@ -277,7 +277,7 @@
                     "endOffset": 889
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 1,
@@ -296,7 +296,7 @@
                     "endOffset": 933
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 1,
@@ -315,7 +315,7 @@
                     "endOffset": 974
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 1,
@@ -334,7 +334,7 @@
                     "endOffset": 1036
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1098
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 1,
@@ -372,7 +372,7 @@
                     "endOffset": 1140
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 1,
@@ -391,7 +391,7 @@
                     "endOffset": 1182
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
@@ -410,7 +410,7 @@
                     "endOffset": 1224
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 1,
@@ -429,7 +429,7 @@
                     "endOffset": 1266
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 1,
@@ -448,7 +448,7 @@
                     "endOffset": 1308
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 1,
@@ -467,7 +467,7 @@
                     "endOffset": 1352
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 1,
@@ -486,7 +486,7 @@
                     "endOffset": 1402
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 1,
@@ -505,7 +505,7 @@
                     "endOffset": 1437
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 1,
@@ -524,7 +524,7 @@
                     "endOffset": 1503
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 1,
@@ -543,7 +543,7 @@
                     "endOffset": 1570
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
@@ -562,7 +562,7 @@
                     "endOffset": 1619
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 1,
@@ -581,7 +581,7 @@
                     "endOffset": 1668
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 1,
@@ -600,7 +600,7 @@
                     "endOffset": 1720
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
@@ -619,7 +619,7 @@
                     "endOffset": 1769
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 1,
@@ -638,7 +638,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 1,
@@ -657,7 +657,7 @@
                     "endOffset": 1844
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 1,
@@ -676,7 +676,7 @@
                     "endOffset": 1885
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 1,
@@ -695,7 +695,7 @@
                     "endOffset": 1933
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
@@ -714,7 +714,7 @@
                     "endOffset": 2001
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
@@ -733,7 +733,7 @@
                     "endOffset": 2051
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
@@ -752,7 +752,7 @@
                     "endOffset": 2093
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
@@ -771,7 +771,7 @@
                     "endOffset": 2149
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 1,
@@ -790,7 +790,7 @@
                     "endOffset": 2203
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 1,
@@ -809,7 +809,7 @@
                     "endOffset": 2241
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 1,
@@ -828,7 +828,7 @@
                     "endOffset": 2305
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -847,7 +847,7 @@
                     "endOffset": 2355
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 3,
@@ -866,7 +866,7 @@
                     "endOffset": 2411
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -885,7 +885,7 @@
                     "endOffset": 2477
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -904,7 +904,7 @@
                     "endOffset": 2518
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 1,
@@ -923,7 +923,7 @@
                     "endOffset": 2580
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 1,
@@ -942,7 +942,7 @@
                     "endOffset": 2634
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 1,
@@ -961,7 +961,7 @@
                     "endOffset": 2679
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
@@ -980,7 +980,7 @@
                     "endOffset": 2713
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 1,
@@ -1000,7 +1000,7 @@
                     "endOffset": 3075
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\values\\theme.xml",
+                    "file": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\values\\theme.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,

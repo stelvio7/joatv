@@ -1,24 +1,5 @@
 package com.moatv5.settop;
 
-import java.util.ArrayList;
-
-import org.apache.http.NameValuePair;
-import org.apache.http.message.BasicNameValuePair;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import com.moatv5.model.BroadcastList;
-import com.moatv5.model.Constant;
-
-import com.noh.util.PostHttp;
-import com.noh.util.UrlImageLoader;
-import com.noh.util.Util;
-
-import android.util.Log;
-import android.view.KeyEvent;
-import android.view.MotionEvent;
-import android.view.View;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -26,7 +7,25 @@ import android.graphics.Bitmap;
 import android.graphics.drawable.AnimationDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.KeyEvent;
+import android.view.MotionEvent;
+import android.view.View;
 import android.widget.ImageView;
+
+import com.moatv5.model.BroadcastList;
+import com.moatv5.model.Constant;
+import com.noh.util.PostHttp;
+import com.noh.util.UrlImageLoader;
+import com.noh.util.Util;
+
+import org.apache.http.NameValuePair;
+import org.apache.http.message.BasicNameValuePair;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
 
 public class Connect extends Activity{
     /** Called when the activity is first created. */
@@ -247,7 +246,7 @@ public class Connect extends Activity{
 	        	frameAnimation2 = (AnimationDrawable) imgConnect2.getBackground();
 	        	frameAnimation2.start();
 	        	
-				Intent intent = new Intent(Connect.this, HantvActivity.class);
+				Intent intent = new Intent(Connect.this, HantvActivity2.class);
 				intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 				startActivity(intent);
 				finish();

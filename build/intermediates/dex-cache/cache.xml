@@ -2,175 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="E:\oldData\201703android\joatv\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="0667aafa93e5e13a18a92741a3d33f44e45da0df">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_195f8bd1db36eb141f67a1ee30529a60e8fb0819\classes.dex" />
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="E:\oldData\201703android\joatv\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.2_c5644661c365fde92da59e139299e42f8876e812.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="E:\oldData\201703android\joatv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55ffac964c5d51f954adc8a63920d1b4bc2c5847">
+        <dex dex="E:\oldData\201703android\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1610a506698317b6a27e994d90a976dfabd7393b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\oldData\201703android\joatv\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="E:\oldData\201703android\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_c5644661c365fde92da59e139299e42f8876e812\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\oldData\201703android\joatv\app\libs\RootTools-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="E:\oldData\201703android\joatv\app\build\intermediates\pre-dexed\release\RootTools-3.4_2e29938fd6ce1d414b24aa327b3467b5b66cba35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\oldData\201703android\joatv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_012311bf871db55776bddc5351d9fca7a7938257\classes.dex" />
+        <dex dex="E:\oldData\201703android\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_770fe6f62ee92b4a78ea62b05176c5990aa0e749\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cf50f971e38e5f617f6b0791ba074316dce7f913">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_55dd41f89ebf91b71a699b41b358498f096f40f7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_159aa1ce0745df62a8d350247d43d7cb3806473c\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\201703tv\cambodia\app\libs\RootTools-3.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\pre-dexed\release\RootTools-3.4_f218eaa812c658335ecb0e3957e9878b8a6c213d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\libs\RootTools-3.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\pre-dexed\debug\RootTools-3.4_477fa9de7228882c779513b4d41a6172f7fffcec.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\libs\universal-image-loader-1.9.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_43d27d771c5acc9fbbe51f581fc04a242078c37d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\libs\universal-image-loader-1.9.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.2_43d27d771c5acc9fbbe51f581fc04a242078c37d.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\libs\RootTools-3.4.jar"
+        jar="E:\oldData\201703android\joatv\app\libs\RootTools-3.4.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\RootTools-3.4_477fa9de7228882c779513b4d41a6172f7fffcec\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\libs\universal-image-loader-1.9.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_05de3131ce7a92222f01e85533c9002c38023992\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\201703tv\moatv5\app\libs\universal-image-loader-1.9.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_05de3131ce7a92222f01e85533c9002c38023992.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f9e5dc44dd426434824f3e21631ce32d48f52ad4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\cambodia\app\libs\RootTools-3.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\transforms\dex\debug\folders\1000\2\RootTools-3.4_f218eaa812c658335ecb0e3957e9878b8a6c213d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\cambodia\app\libs\universal-image-loader-1.9.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_fdf9e57b0f5b039edc6ea0e7c8d9b7b7bce522ed\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\moatv5\app\build\intermediates\pre-dexed\debug\otto-1.3.8_e9db0628aafd4857a0f5165f559642d620bd29bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\201703tv\cambodia\app\libs\universal-image-loader-1.9.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\cambodia\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.2_fdf9e57b0f5b039edc6ea0e7c8d9b7b7bce522ed.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f1f4e6ca6e3abdc718c5557bfccb3761360fa13d">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5581063396deee8457c471e3c189758169128311\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\libs\RootTools-3.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\2\RootTools-3.4_9c6ed00f7d4b715f311fb2eb0e6b236b74eb665d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\201703tv\joatv\app\libs\RootTools-3.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
-        <dex dex="C:\Users\Administrator\Desktop\201703tv\joatv\app\build\intermediates\pre-dexed\release\RootTools-3.4_9c6ed00f7d4b715f311fb2eb0e6b236b74eb665d.jar" />
+        <dex dex="E:\oldData\201703android\joatv\app\build\intermediates\transforms\dex\debug\folders\1000\2\RootTools-3.4_2e29938fd6ce1d414b24aa327b3467b5b66cba35\classes.dex" />
     </item>
 
 </items>

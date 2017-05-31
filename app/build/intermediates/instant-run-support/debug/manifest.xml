@@ -26,15 +26,21 @@
         android:largeHeap="true" >
         <activity
             android:name="com.moatv5.settop.Connect"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            android:label="@string/app_name" />
+
+        <activity-alias
+            android:name="com.moatv5.settop.HantvActivity"
+            android:label="@string/app_name"
+            android:targetActivity="com.moatv5.settop.Connect" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+        </activity-alias>
+
         <activity
-            android:name="com.moatv5.settop.HantvActivity"
+            android:name="com.moatv5.settop.HantvActivity2"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
         <activity

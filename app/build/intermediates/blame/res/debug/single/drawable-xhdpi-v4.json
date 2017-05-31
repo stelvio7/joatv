@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_x2.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\drawable-xhdpi\\connect_x2.xml"
+        "merged": "E:\\oldData\\201703android\\joatv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_x2.xml",
+        "source": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\drawable-xhdpi\\connect_x2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_check.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\drawable-xhdpi\\connect_check.xml"
+        "merged": "E:\\oldData\\201703android\\joatv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_check.xml",
+        "source": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\drawable-xhdpi\\connect_check.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_x1.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\201703tv\\joatv\\app\\src\\main\\res\\drawable-xhdpi\\connect_x1.xml"
+        "merged": "E:\\oldData\\201703android\\joatv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_x1.xml",
+        "source": "E:\\oldData\\201703android\\joatv\\app\\src\\main\\res\\drawable-xhdpi\\connect_x1.xml"
     }
 ]
